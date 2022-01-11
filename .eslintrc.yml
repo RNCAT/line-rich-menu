@@ -1,0 +1,18 @@
+env:
+  commonjs: true
+  es2021: true
+  node: true
+extends:
+  - airbnb-base
+  - prettier
+parserOptions:
+  ecmaVersion: 13
+rules:
+  no-console: off
+  import/order: off
+  import/no-unresolved: off
+  import/no-self-import: off
+  import/no-extraneous-dependencies: off
+  import/no-useless-path-segments: off
+  import/extensions: off
+  no-case-declarations: off
