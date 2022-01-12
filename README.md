@@ -1,5 +1,9 @@
 # AlpacaShop Rich Menu
 
+## Example
+<img src="https://raw.githubusercontent.com/RNCAT/line-rich-menu/main/img/example1.jpg" alt="drawing" width="150"/>
+<img src="https://raw.githubusercontent.com/RNCAT/line-rich-menu/main/img/example2.jpg" alt="drawing" width="150"/>
+  
 ## How to use
 
 ### Requirement
